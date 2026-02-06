@@ -1,7 +1,7 @@
 # חקר Android Studio - תשובות התלמיד
 
-**שם התלמיד:** _______________
-**תאריך:** _______________
+**שם התלמיד:** גור
+**תאריך:** 06.02.2026
 
 ---
 
@@ -11,12 +11,20 @@
 צלם screenshot של חלון הProject (תצוגת Android) והדבק כאן:
 
 **[הדבק תמונה]**
+<img width="959" height="597" alt="image" src="https://github.com/user-attachments/assets/bbbee777-a533-4145-a92b-9c057716fa85" />
+<img width="958" height="597" alt="image" src="https://github.com/user-attachments/assets/441fe8ba-e49d-4517-8553-f4e64b13e679" />
+<img width="960" height="595" alt="image" src="https://github.com/user-attachments/assets/fc8a6e26-6375-40dd-9872-277e855e59d3" />
+<img width="958" height="598" alt="image" src="https://github.com/user-attachments/assets/7d2b18b7-1c56-4ed5-9585-7b5b695eac3a" />
+
+
+
+
 
 רשום את שמות 3 התיקיות הראשיות שאתה רואה:
 
-1. _________________
-2. _________________
-3. _________________
+1. JAVA
+2.  RES
+3. MANIFESTS
 
 ---
 
@@ -24,11 +32,13 @@
 צלם screenshot של קובץ AndroidManifest.xml והדבק כאן:
 
 **[הדבק תמונה]**
+<img width="959" height="597" alt="image" src="https://github.com/user-attachments/assets/eb297727-fdc0-443f-867f-b87d5512554f" />
 
 **מה התפקיד של קובץ זה? (2-3 משפטים)**
 
 
-
+הוא הקובץ המרכזי שמגדיר את מבנה האפליקציה באנדרואיד.
+הוא מציין את כל ה-Activities, Services, Permissions ושאר רכיבי האפליקציה, ומאפשר למערכת האנדרואיד לדעת איך להפעיל את האפליקציה ומה היא צריכה כדי לעבוד.
 
 ---
 
@@ -36,15 +46,23 @@
 צלם screenshot של תוכן תיקיית res והדבק כאן:
 
 **[הדבק תמונה]**
+<img width="146" height="133" alt="image" src="https://github.com/user-attachments/assets/28aa41e7-ee2a-4063-b8cf-eeabde9c322c" />
 
 **רשום 3 תיקיות משנה שנמצאות בתוך res:**
 
-1. _________________
-2. _________________
-3. _________________
+1. XML
+2. LAYOUT
+3. VALUES
 
 **מה נמצא בכל אחת מהתיקיות האלה?**
+1.  xml
+מכילה קבצי הגדרות XML שונים של האפליקציה, כמו הגדרות תפריטים, הגדרות Preference או קובצי Navigation.
 
+2. layout
+מכילה את קבצי ה-XML שמגדירים את מבנה הממשק (UI) של האפליקציה – מסכים, כפתורים, טקסטים ומסגרות.
+
+3. values
+מכילה קבצי משאבים כמו מחרוזות (strings.xml), צבעים (colors.xml), גדלים (dimens.xml) וסגנונות (styles.xml).
 
 
 
